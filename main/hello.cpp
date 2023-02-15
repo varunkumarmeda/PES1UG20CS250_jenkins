@@ -6,6 +6,7 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
-  cout << "Hey this is varun meda from PES1UG20CS250";
+  cout << "Hey right now i am testing out jenkins\n";
+  cout << "see you all later byeeee";
   return 0;
 }
