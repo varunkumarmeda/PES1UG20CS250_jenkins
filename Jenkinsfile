@@ -13,14 +13,14 @@ pipeline {
         stage('Test') {
             steps {
                 sh 'cat temp.cpp'
-                echo 'Test by CS250 successful
+                echo 'Test by CS250 successful'
             }
         }
 
         stage('Deploy') {
             steps {
                
-                echo 'Deploy by CS250 successful'
+                ec 'Deploy by CS250 successful'
             }
         }
     }
